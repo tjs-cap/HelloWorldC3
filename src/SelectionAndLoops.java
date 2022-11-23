@@ -77,14 +77,14 @@ public class SelectionAndLoops {
         System.out.println("Username = " + username);
 
         //do while
-        String username1;
-        Scanner reader = new Scanner(System.in);
-        do {
-            System.out.print("Enter username: ");
-            username1 = reader.nextLine();
-        } while (username.isEmpty());
-
-        System.out.println("Username = " + username);
+//        String username1;
+//        Scanner reader = new Scanner(System.in);
+//        do {
+//            System.out.print("Enter username: ");
+//            username1 = reader.nextLine();
+//        } while (username.isEmpty());
+//
+//        System.out.println("Username = " + username);
     }
 }
 
